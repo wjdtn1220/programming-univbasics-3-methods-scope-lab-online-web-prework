@@ -9,8 +9,7 @@ def toadstool
 end
 
 def link
-  puts message
-end
+  puts 
 
 def any_phrase(phrase)
   puts phrase
